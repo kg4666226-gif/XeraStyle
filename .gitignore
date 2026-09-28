@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.ap_
+*.dex
+*.class
+
+# IDE
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Android
+.classpath
+.project
+.settings/
+bin/
+local.properties
+*.keystore
+
+# Build outputs
+app/build/
+*.log
